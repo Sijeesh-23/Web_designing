@@ -1,0 +1,44 @@
+.cal{
+    width: 400px;
+    height: 550px;
+    background-color: gray;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+#screen{
+    width: 80%;
+    height: 50px;
+    margin: 35px;
+    pointer-events: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 4px 4px 10px -5px;
+    font-size: xx-large;
+    font-family: math;
+}
+.btn{
+    margin-top: 10px;
+    width: 58px;
+    height: 52px;
+    margin-left: 31px;
+    border-radius: 5px;
+    background-color: #f1c8c8;
+    box-shadow: 4px 4px 10px -5px;
+}
+.row{
+    margin-top: 7px;
+    height: 75px;
+}
+.button{
+    height: 440px;
+}
+.clr{
+    margin-top: 25px;
+    width: 58px;
+    height: 52px;
+    margin-left: 31px;
+    border-radius: 5px;
+    background-color: #f1c8c8;
+    box-shadow: 4px 4px 10px -5px;
+}
